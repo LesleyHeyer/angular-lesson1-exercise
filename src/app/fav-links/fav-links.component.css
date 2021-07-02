@@ -1,0 +1,12 @@
+h3 {
+    font-family: Arial;
+    color: blue;
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}

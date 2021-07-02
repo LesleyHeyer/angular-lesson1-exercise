@@ -1,0 +1,16 @@
+h3 {
+   color: purple;
+}
+
+img {
+   display: flex;
+   flex-direction: row;
+   height: auto;
+   max-width: 25%;
+
+}
+
+.photos {
+   text-align: center;
+   color: purple;
+}
